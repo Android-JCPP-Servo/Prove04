@@ -11,7 +11,7 @@ public class HelloFromAndersen {
         String message = hfa.displayMessage();
         System.out.println(message);
 
-        // Display HelloFromDustin
+        //  Display HelloFromDustin
         HelloFromDustin hfd = new HelloFromDustin();
         System.out.println(hfd.displayMessage());
     }
